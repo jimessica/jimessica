@@ -1,7 +1,7 @@
 ### Hi, my name is Jessica!
 🌱 I'm a Bachelor of Information Student at the University of Toronto
 
-See my creative work at (My Portfolio)https://imjiwoo.com/
+See my creative work at my portfolio: https://imjiwoo.com/
 
 <!--
 **jimessica/jimessica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
