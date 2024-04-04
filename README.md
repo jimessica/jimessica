@@ -1,5 +1,6 @@
 ### Hi, my name is Jessica :)
 🌱 I'm a Bachelor of Information Student at the University of Toronto
+
 💡 I creatively overcomes constraints by approaching problems with curiousity, ambition, and empathy.
 
 See my creative work at my portfolio: https://imjiwoo.com/
